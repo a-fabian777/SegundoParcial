@@ -1,4 +1,5 @@
-
+# Mamani Alcon Andres Fabian
+# 6948279
 import pandas as pd
 import numpy as np
 
