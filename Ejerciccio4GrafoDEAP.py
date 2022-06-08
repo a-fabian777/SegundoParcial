@@ -1,4 +1,5 @@
-
+# Mamani Alcon Andres Fabian
+# 6948279
 import random
 import numpy 
 from deap import algorithms
