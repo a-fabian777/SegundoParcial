@@ -1,3 +1,5 @@
+# Mamani Alcon Andres Fabian
+# 6948279
 import random
 import numpy as np
 import pandas as pd
