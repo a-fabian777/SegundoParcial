@@ -1,5 +1,6 @@
 # Mamani Alcon Andres Fabian
 # 6948279
+# Generar el archivo CSV, obtener el mejor recorrido usando algoritmos genéticos sin el uso de DEAP.
 import random
 import numpy as np
 import pandas as pd
