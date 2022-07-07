@@ -1,5 +1,6 @@
 # Mamani Alcon Andres Fabian
 # 6948279
+# 4. Con el uso de DEAP, resolver el anterior ejercicio.
 import random
 import numpy 
 from deap import algorithms
