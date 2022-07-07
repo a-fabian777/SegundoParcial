@@ -1,5 +1,8 @@
 # Mamani Alcon Andres Fabian
 # 6948279
+"""
+1. Generar una red neuronal (sin librerias) que utilice el daatset iris con producto punto, errores, y de dos capas.
+"""
 import pandas as pd
 import numpy as np
 
